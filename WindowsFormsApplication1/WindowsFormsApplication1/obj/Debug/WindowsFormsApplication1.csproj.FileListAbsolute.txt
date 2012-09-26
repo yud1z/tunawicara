@@ -21,3 +21,14 @@ C:\Documents and Settings\yud1z\Desktop\tunawicara\WindowsFormsApplication1\Wind
 C:\Documents and Settings\yud1z\Desktop\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
 C:\Documents and Settings\yud1z\Desktop\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Documents and Settings\yud1z\Desktop\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.SpeechLib.dll
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.SpeechLib.dll
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\ngoprek\tunawicara\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
